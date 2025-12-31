@@ -67,9 +67,8 @@ AI accelerates learning — it doesn’t replace it.
 
 ## 📌 Pinned Work
 
-- **VyZX (Open Source)**  
-  Formal verification project contributing to research-level tooling.
-
+- **VYZX STUDIOS (Marketing Agenct)**  
+  Help Creators to grow and provide many marketing services.
 - **VYZEDU Platform**  
   Community-driven study & productivity ecosystem.
 
